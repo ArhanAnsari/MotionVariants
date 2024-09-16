@@ -8,16 +8,16 @@ export default function Footer() {
         <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
           Built by{" "}
           <Link
-            href="https://twitter.com/abdo_eth"
+            href="https://github.com/ArhanAnsari"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
           >
-            Chris Abdo
+            Arhan Ansari
           </Link>
           . The source code is available on&nbsp;
           <Link
-            href="https://github.com/chrisabdo/motionvariants"
+            href="https://github.com/ArhanAnsari/motionvariants"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
