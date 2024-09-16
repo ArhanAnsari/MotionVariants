@@ -57,7 +57,7 @@ export default function MainNav() {
           <NavSheet />
         </div>
         <div className="hidden lg:flex space-x-1 z-50">
-          <Link
+          {/*<Link
             href="https://www.twitter.com/abdo_eth"
             rel="noreferrer"
             target="_blank"
@@ -65,9 +65,9 @@ export default function MainNav() {
             <Button className="flex items-center" variant="ghost" size="icon">
               <TwitterLogoIcon className="h-4 w-4" />
             </Button>
-          </Link>
+          </Link>*/}
           <Link
-            href="https://www.github.com/chrisabdo/motionvariants"
+            href="https://www.github.com/ArhanAnsari/motionvariants"
             rel="noreferrer"
             target="_blank"
           >
